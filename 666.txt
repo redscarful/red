@@ -22,9 +22,9 @@ cctv14,http://103.45.68.47:666/gy/gy_CGlA/爱看mg.php?id=cctv14
 cctv15,http://103.45.68.47:666/gy/gy_CGlA/爱看mg.php?id=cctv15
 cctv17,http://103.45.68.47:666/gy/gy_CGlA/爱看mg.php?id=cctv17
 
-
-
 ▶️┃央视2,#genre#
+
+
 CCTV-2财经,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=065
 CCTV-3综艺,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=126
 CCTV-4中文国际,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=14
@@ -57,10 +57,8 @@ CCTV电视指南,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=141
 CCTV卫生健康,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=102
 CCTV新科动漫,http://103.45.68.47:666/gy/gy_JSVK/阳泉.php?id=067
 
-
-
-
 ▶️┃央视3,#genre#
+
 CCTV1,http://103.45.68.47:666/gy/gy_JSVK/重庆.php?id=cctv1HD
 CCTV2,http://103.45.68.47:666/gy/gy_JSVK/重庆.php?id=cctv2HD
 CCTV3,http://103.45.68.47:666/gy/gy_JSVK/重庆.php?id=cctv3HD
